@@ -26,16 +26,19 @@ This sophisticated integration of advanced AI technologies ensures that MindEase
 ## Installation
 
 1. *Clone the Repository:*
-
-   bash
-   git clone https://github.com/yourusername/MindEase.git
-   cd MindEase
+   ```bash
+   git clone https://github.com/bhaviknetam/ai-powered-mental-health-emotion-analyzer
 
 2.**Install Dependencies:**
-    bash
+    ```bash
+
     pip install -r requirements.txt
+
+3. **Navigate to source directory**
+   ```bash
+   cd src
     
 3.*Run Command:*
    ```bash
-   streamlit run Home.py
+   streamlit run home.py
 
