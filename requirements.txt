@@ -1,0 +1,26 @@
+# Core Libraries
+streamlit==1.30.0       # Web UI framework
+python-dotenv==1.0.1    # Load environment variables
+
+# AI & NLP Models
+openai==1.10.0          # Azure OpenAI GPT-4 API
+transformers==4.38.1    # Hugging Face Transformers (Sentiment Analysis)
+torch==2.1.0            # Required for AI models
+whisper==1.1.10         # OpenAI Whisper (Speech-to-Text)
+
+# Azure Cognitive Services
+azure-ai-textanalytics==5.3.0    # Azure Text Analytics API
+azure-cognitiveservices-speech==1.33.0  # Azure Speech-to-Text
+azure-cognitiveservices-vision-face==0.4.1  # Azure Face API
+
+# Audio Processing
+sounddevice==0.4.6      # Record audio from mic
+numpy==1.26.4          # Required for processing audio
+scipy==1.11.4          # For WAV file processing
+
+# API & Requests
+requests==2.31.0       # API calls
+msrest==0.7.1          # Required for Azure API authentication
+
+# Deployment & Testing
+pytest==7.4.3          # Unit testing
