@@ -5,7 +5,7 @@ python-dotenv==1.0.1    # Load environment variables
 # AI & NLP Models
 openai==1.10.0          # Azure OpenAI GPT-4 API
 transformers==4.48.0    # Hugging Face Transformers (Sentiment Analysis)
-torch==2.1.0            # Required for AI models
+torch==2.7.0            # Required for AI models
 whisper==1.1.10         # OpenAI Whisper (Speech-to-Text)
 
 # Azure Cognitive Services
